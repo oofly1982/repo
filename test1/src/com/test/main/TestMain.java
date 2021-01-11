@@ -4,9 +4,10 @@ public class TestMain {
 
     public static void main(String[] args){
         System.out.println("my test3333!!!");
-        int a = 5;
+        int a1 = 5;
         int b = 10;
-        int d = a+b;
-        System.out.println("d: " + d);
+        int c = 15;
+        int d = a1+b+c;
+        System.out.write(d);
     }
 }
