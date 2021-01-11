@@ -3,10 +3,11 @@ package com.test.main;
 public class TestMain {
 
     public static void main(String[] args){
-        System.out.println("my test2222!!!");
+        System.out.println("my test3333!!!");
         int a = 5;
         int b = 10;
-        int c = a+b;
-        System.out.println("c: " + c);
+        int d = a+b;
+
+        System.out.println("d: " + d);
     }
 }
